@@ -13,7 +13,7 @@ public class MyProject_AccountBank {
         p1.setDono ("Alexssandro");
         p1.abrirConta("CC");
         p1.depositar(100);
-        p1.sacar(100);
+        p1.sacar(140) ;
         
         
         
